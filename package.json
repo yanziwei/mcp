@@ -5,6 +5,10 @@
   "author": "Browser MCP",
   "homepage": "https://browsermcp.io",
   "bugs": "https://github.com/browsermcp/mcp/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrowserMCP/mcp.git"
+  },
   "type": "module",
   "bin": {
     "mcp-server-browsermcp": "dist/index.js"
